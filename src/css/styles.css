@@ -96,6 +96,16 @@ element.style {
 
 }
 
+.folio{
+  color: #307619;
+  text-decoration: none;
+    background-color: transparent;
+    transition-property: all;
+    transition-duration: 0.3s;
+    transition-timing-function: ease;
+    transition-delay: 0s;
+}
+
 @media (min-width: 992px){
 .col-md-4 {
     width: 33.33333333%;
